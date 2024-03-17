@@ -117,6 +117,8 @@ When deciding how to create content, it is important to pay attention to some co
 
   → [To check trends](https://trends.google.com/).
   
+  → [For dectecting adverbs, passive voice and hard to read sentences](https://hemingwayapp.com/).
+  
   → [Headline analyzer](https://headlines.coschedule.com/headlines)
   
   → [Americans with disability act](https://adata.org/learn-about-ada).
